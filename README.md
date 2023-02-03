@@ -1,4 +1,4 @@
-# ⚙️ GScripts for common use cases ⚙️
+# ⚙️ Scripts for common use cases ⚙️
 
 | Use case |  File |  CLI Command to run the script |
 | -- | -- | -- |
