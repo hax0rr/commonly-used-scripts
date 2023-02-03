@@ -1,5 +1,5 @@
-# ⚙️ Commonly used scripts ⚙️
+# ⚙️ Scripts for common use cases ⚙️
 
-| Script use  |  File |  CLI Command to run the script | 
+| Use case |  File |  CLI Command to run the script | 
 | -- | -- | -- |
-Call APIs in Bulk and export its data into CSV | [export_api_response_to_csv.rb](https://github.com/hax0rr/commonly-used-scripts/blob/master/export_api_response_to_csv.rb) | `ruby export_api_response_to_csv.rb` |
+Calls APIs in Bulk and export required data into CSV | [export_api_response_to_csv.rb](https://github.com/hax0rr/commonly-used-scripts/blob/master/export_api_response_to_csv.rb) | `ruby export_api_response_to_csv.rb` |
